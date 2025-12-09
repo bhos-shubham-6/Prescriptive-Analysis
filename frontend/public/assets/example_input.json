@@ -1,0 +1,13 @@
+{
+  "StudentID": 5000.5,
+  "CGPA": 7.7,
+  "Internships": 1.0,
+  "Projects": 2.0,
+  "Workshops/Certifications": 1.0,
+  "AptitudeTestScore": 80.0,
+  "SoftSkillsRating": 4.4,
+  "ExtracurricularActivities": "No",
+  "SSC_Marks": 70.0,
+  "HSC_Marks": 73.0,
+  "PlacementStatus": "NotPlaced"
+}

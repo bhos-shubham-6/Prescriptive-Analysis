@@ -1,0 +1,12 @@
+
+// React (fetch) example: when user submits form with inputs matching training features
+async function submitForPrediction(formValues) {
+  const resp = await fetch("http://localhost:5000/predict", {
+    method: "POST",
+    headers: {"Content-Type":"application/json"},
+    body: JSON.stringify(formValues)
+  });
+  const data = await resp.json();
+  // data.predicted and data.probability
+  return data;
+}
