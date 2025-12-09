@@ -1,6 +1,6 @@
 Student Placement Prediction
 
-### Backend (Python/Flask)
+### Backend (Python)
 1. Create a virtualenv and activate it.
 2. Install dependencies:
    ```
